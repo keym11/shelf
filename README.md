@@ -160,9 +160,9 @@ Having issues? Here are some solutions:
 - Make sure you have write permissions in the app directory
 
 ### Get Help
-- 🐛 **Report bugs**: [Open an issue](https://github.com/yourusername/book-library-app/issues)
-- 💡 **Feature requests**: [Start a discussion](https://github.com/yourusername/book-library-app/discussions)
-- 📧 **Contact**: [your-email@example.com]
+- 🐛 **Report bugs**: [Open an issue](https://github.com/keym11/shelf/issues)
+- 💡 **Feature requests**: [Start a discussion](https://github.com/keym11/shelf/discussions)
+- 📧 **Contact**: [saud69262@gmail.com]
 
 ## ⭐ Show Your Support
 
