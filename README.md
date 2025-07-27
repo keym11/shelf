@@ -74,19 +74,6 @@ If you don't have Python, download it free from [python.org](https://www.python.
 2. Click **"📥 Import from CSV"**
 3. Select your file and watch your library populate!
 
-## 📁 Sample Data
-
-Want to test the app? Use this sample CSV data:
-
-```csv
-title,author,genre,pages,status,rating,notes
-"The Great Gatsby","F. Scott Fitzgerald","Classic",180,"Finished",5,"Amazing portrayal of the American Dream"
-"To Kill a Mockingbird","Harper Lee","Classic",376,"Finished",5,"Powerful story about justice and morality"
-"1984","George Orwell","Dystopian",328,"Currently Reading",0,"So far very thought-provoking"
-"Pride and Prejudice","Jane Austen","Romance",432,"Want to Read",0,"Classic I've been meaning to read"
-"The Hobbit","J.R.R. Tolkien","Fantasy",310,"Finished",4,"Great adventure story"
-```
-
 ## 🎯 Perfect For
 
 - 📚 **Book enthusiasts** who want to organize their personal collection
