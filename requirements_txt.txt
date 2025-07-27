@@ -1,0 +1,24 @@
+# Book Library App - Requirements
+# 
+# This application uses only Python standard libraries, so no additional 
+# packages need to be installed!
+#
+# Required Python version: 3.6+
+#
+# Standard libraries used:
+# - tkinter (GUI framework - included with Python)
+# - sqlite3 (database - included with Python)  
+# - csv (data import/export - included with Python)
+# - datetime (date handling - included with Python)
+# - os (file operations - included with Python)
+#
+# To check if you have the required Python version:
+# python --version
+#
+# To run the application:
+# python book_library.py
+#
+# Optional: If you want to contribute to development, you might want:
+# pytest>=6.0.0  # for running tests
+# black>=21.0.0   # for code formatting
+# flake8>=3.8.0   # for code linting
